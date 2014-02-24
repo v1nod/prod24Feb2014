@@ -214,7 +214,7 @@ $databases = array(
     array(
         'default' =>
         array(
-            'database' => 'html_santaclara',
+            'database' => 'santa_prod',
             'username' => 'root',
             'password' => '',
             'host' => 'localhost',
